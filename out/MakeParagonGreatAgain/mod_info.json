@@ -1,0 +1,10 @@
+{
+	"id":"make_paragon_great_again", # internal id
+	"name":"Make Paragon Great Again", # displayed to the player
+	"author":"nil",
+	"version":"v1.0",
+	"description":"Make Paragon Great Again",
+	"gameVersion":"0.95.1a-RC6",
+	"replace":["data/hulls/paragon.ship"],
+	"jars":["jars/mpga.jar"]
+}
